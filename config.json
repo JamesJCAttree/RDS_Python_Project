@@ -1,0 +1,5 @@
+{
+    "database": {
+        "cursorclass": "pymysql.cursors.DictCursor"
+    }
+}
